@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32519.379
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BotSumAndLength", "BotSumAndLength\BotSumAndLength.csproj", "{A9A48996-9129-424C-9BC5-301D6B12A531}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A9A48996-9129-424C-9BC5-301D6B12A531}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9A48996-9129-424C-9BC5-301D6B12A531}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9A48996-9129-424C-9BC5-301D6B12A531}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9A48996-9129-424C-9BC5-301D6B12A531}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0FAE3BC1-AE81-4AA0-AC2E-E6672E14B8A1}
+	EndGlobalSection
+EndGlobal
